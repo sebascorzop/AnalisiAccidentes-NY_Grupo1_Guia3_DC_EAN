@@ -5,7 +5,7 @@ Descargue el archivo "Solución guía 3 grupo 1.ipynb"
 Cargue este archivo en Google Drive
 Ejecute el archivo usando Google Colab.
 Ejecute la celda 1 y 2 del código para importar las librerías necesarias y crear el directorio donde se incorporará el dataset.
-Descargue el archivo "accidentes-1.csv"
+Descargue el archivo "accidentes-1.zip" y descomprimalo
 Cargue el archivo en "accidentes-1.csv" dando click derecho > subir en la carpeta "Guía3", en el módulo "Archivos" que puede encontrar en el panel de la izquierda de Google Colab
 Ejecute la celda 3 del código.
 Ejecute el código restante.
