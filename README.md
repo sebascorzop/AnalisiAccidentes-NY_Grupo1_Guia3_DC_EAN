@@ -1,0 +1,2 @@
+# AnalisiAccidentes-NY_Grupo1_Guia3_DC_EAN
+Guía 3Programación para ciencia de datos universidad EAN 2025/1  Presentado por:  -MAGDA YANETH OROZCO GARCIA 46457994  -SEBASTIAN CORZO PENHA 1018489947  -JOSÉ NÉSTOR SUÁREZ SUÁREZ 19365283 -  JUAN JOSÉ VARGAS VÉLEZ 1088008834  
